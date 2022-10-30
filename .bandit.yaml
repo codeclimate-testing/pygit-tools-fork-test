@@ -1,0 +1,4 @@
+exclude_dirs: ['docs']
+
+assert_used:
+  skips: ["*/test_*.py"]

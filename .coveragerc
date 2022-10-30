@@ -1,0 +1,11 @@
+[run]
+branch = True
+source =
+    src/git
+    tests
+
+[report]
+fail_under = 100
+show_missing = True
+skip_covered = True
+skip_empty = True

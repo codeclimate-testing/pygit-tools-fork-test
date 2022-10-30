@@ -1,0 +1,11 @@
+[flake8]
+exclude =
+    .git,
+    .github,
+    .tox,
+    __pycache__,
+    docs/conf.py,
+    build,
+    dist,
+    venv
+max-complexity = 10
