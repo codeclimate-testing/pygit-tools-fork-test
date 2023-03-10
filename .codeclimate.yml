@@ -45,6 +45,7 @@ checks:
 plugins:
   bandit:
     enabled: true
+    channel: beta
   fixme:
     enabled: true
     config:
